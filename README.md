@@ -240,3 +240,7 @@ tests/         unit/ (network-free, calldata proofs) + live/ (real chain/API cal
 ## License
 
 All rights reserved. See [LICENSE](LICENSE).
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/robinhood-chain-launcher&type=Date)](https://www.star-history.com/#nirholas/robinhood-chain-launcher&Date)
