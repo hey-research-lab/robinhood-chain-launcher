@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "robinhood-chain-launcher"
+abstract: "Autonomous coin launcher for Robinhood Chain: concept → 3D logo → deploy on NOXA or Uniswap v3 → announce. CLI, HTTP API, and an autonomous agent."
+repository-code: "https://github.com/nirholas/robinhood-chain-launcher"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"

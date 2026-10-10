@@ -1,0 +1,28 @@
+# robinhood-chain-launcher
+
+> Autonomous coin launcher for Robinhood Chain: concept → 3D logo → deploy on NOXA or Uniswap v3 → announce. CLI, HTTP API, and an autonomous agent.
+
+robinhood-chain-launcher is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/robinhood-chain-launcher/blob/HEAD/README.md): install, usage and reference
+- [What it does](https://github.com/nirholas/robinhood-chain-launcher/blob/HEAD/README.md#what-it-does)
+- [Install](https://github.com/nirholas/robinhood-chain-launcher/blob/HEAD/README.md#install)
+- [Quickstart](https://github.com/nirholas/robinhood-chain-launcher/blob/HEAD/README.md#quickstart)
+- [Rails](https://github.com/nirholas/robinhood-chain-launcher/blob/HEAD/README.md#rails)
+- [Concept engine](https://github.com/nirholas/robinhood-chain-launcher/blob/HEAD/README.md#concept-engine)
+- [Autonomous mode](https://github.com/nirholas/robinhood-chain-launcher/blob/HEAD/README.md#autonomous-mode)
+- [HTTP API](https://github.com/nirholas/robinhood-chain-launcher/blob/HEAD/README.md#http-api)
+- [Safety](https://github.com/nirholas/robinhood-chain-launcher/blob/HEAD/README.md#safety)
+- [AGENTS.md](https://github.com/nirholas/robinhood-chain-launcher/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/robinhood-chain-launcher/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/robinhood-chain-launcher)
+- [Issues](https://github.com/nirholas/robinhood-chain-launcher/issues)
+- [Discussions](https://github.com/nirholas/robinhood-chain-launcher/discussions)
+- [Homepage](https://nirholas.github.io/robinhood-chain-launcher/)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)
